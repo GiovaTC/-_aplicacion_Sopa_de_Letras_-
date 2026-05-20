@@ -1,12 +1,17 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Oracle.ManagedDataAccess.Client;
 
 namespace SopaLetrasOracle.Conexion
 {
-    internal class ConexionOracle
+    public class ConexionOracle
     {
+        private string conexion =
+            "DATA SOURCE=localhost:1521/orcl;USER ID=system;PASSWORD=Tapiero123";
+        
+        public OracleConnection ObtenerConexion()
+        {
+            OracleConnection cn = new OracleConnection(conexion);
+            cn.Open();
+            return cn;
+        }   
     }
 }

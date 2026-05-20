@@ -1,8 +1,8 @@
 namespace SopaLetrasOracle
 {
-    public partial class Form1 : Form
+    public partial class FrmSopa : Form
     {
-        public Form1()
+        public FrmSopa()
         {
             InitializeComponent();
         }

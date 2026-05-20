@@ -1,6 +1,6 @@
 ﻿namespace SopaLetrasOracle
 {
-    partial class Form1
+    partial class FrmSopa
     {
         /// <summary>
         ///  Required designer variable.

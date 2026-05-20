@@ -1,7 +1,9 @@
 # -_aplicacion_Sopa_de_Letras_- :.
 Aplicacion Sopa de Letras:
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/82cfed38-4e3b-4477-ab2b-98dce17d9850" />  
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/82cfed38-4e3b-4477-ab2b-98dce17d9850" />    
+
+<img width="2551" height="1079" alt="image" src="https://github.com/user-attachments/assets/3df1fae4-22fc-465a-9ad9-1336027900c9" />    
 
 ```
 Visual Studio 2022 + C# + Windows Forms + Oracle 19c.

@@ -1,12 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿
 namespace SopaLetrasOracle.Modelos
 {
-    internal class ResultadoJuego
+    public class ResultadoJuego
     {
-    }
+        public int PalabrasEncontradas { get; set; }
+
+        public string Jugador { get; set; }
+    }   
 }
